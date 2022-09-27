@@ -1,0 +1,10 @@
+<!--file studikasus5-4.html-->
+<html>
+<head>
+<title>HyperLink</title>
+</head>
+<body>
+<h1>Ini adalah halaman link</h1>
+<a href="tugas1">Kembali</a>
+</body>
+</html>
